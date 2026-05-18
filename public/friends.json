@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Noah Hernandez",
+    "picture": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "noah.hernandez@example.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["WORK"],
+    "bio": "Frontend engineer who loves mountain biking.",
+    "goal": 14,
+    "next_due_date": "2026-06-02"
+  },
+  {
+    "id": 2,
+    "name": "Maya Singh",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "maya.singh@example.com",
+    "days_since_contact": 16,
+    "status": "almost due",
+    "tags": ["FAMILY"],
+    "bio": "Cousin who runs a small bakery and shares recipes.",
+    "goal": 21,
+    "next_due_date": "2026-05-28"
+  },
+  {
+    "id": 3,
+    "name": "Ethan Brooks",
+    "picture": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "ethan.brooks@example.com",
+    "days_since_contact": 41,
+    "status": "overdue",
+    "tags": ["COLLEGE"],
+    "bio": "College roommate; we still do hackathons together.",
+    "goal": 30,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 4,
+    "name": "Olivia Park",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "olivia.park@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["HOBBY", "TRAVEL"],
+    "bio": "Photography enthusiast and weekend traveler.",
+    "goal": 7,
+    "next_due_date": "2026-05-25"
+  },
+  {
+    "id": 5,
+    "name": "Liam O'Connor",
+    "picture": "https://images.unsplash.com/photo-1545996124-0b4f6d9b4f8b?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "liam.oconnor@example.com",
+    "days_since_contact": 29,
+    "status": "almost due",
+    "tags": ["WORK"],
+    "bio": "Product manager who loves sailing on weekends.",
+    "goal": 30,
+    "next_due_date": "2026-05-20"
+  },
+  {
+    "id": 6,
+    "name": "Zara Ali",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "zara.ali@example.com",
+    "days_since_contact": 55,
+    "status": "overdue",
+    "tags": ["FRIEND"],
+    "bio": "Met at a conference; loves chess and coffee.",
+    "goal": 60,
+    "next_due_date": "2026-03-25"
+  },
+  {
+    "id": 7,
+    "name": "Owen Martinez",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "owen.martinez@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["SPORTS"],
+    "bio": "Soccer teammate and occasional coding pair.",
+    "goal": 14,
+    "next_due_date": "2026-05-30"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Li",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "sophia.li@example.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["FAMILY", "HOBBY"],
+    "bio": "Neighbor who shares a love of gardening.",
+    "goal": 14,
+    "next_due_date": "2026-05-24"
+  },
+  {
+    "id": 9,
+    "name": "Gabriel Rossi",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "gabriel.rossi@example.com",
+    "days_since_contact": 72,
+    "status": "overdue",
+    "tags": ["CHILDHOOD"],
+    "bio": "Childhood friend, always up for a long catch-up.",
+    "goal": 90,
+    "next_due_date": "2026-02-18"
+  },
+  {
+    "id": 10,
+    "name": "Ava Thompson",
+    "picture": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&q=80&w=200&h=200",
+    "email": "ava.thompson@example.com",
+    "days_since_contact": 20,
+    "status": "almost due",
+    "tags": ["WORK", "TECH"],
+    "bio": "UX researcher who enjoys podcasting.",
+    "goal": 21,
+    "next_due_date": "2026-06-05"
+  }
+]
+
+
